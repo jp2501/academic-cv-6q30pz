@@ -13,8 +13,8 @@ last_name: Polra
 pronouns: He/Him
 
 # status:
-  icon: ☕️
-  text: Fueling research & shipping code
+icon: ☕️
+text: Fueling research & shipping code
 
 # Is this the primary user of the site?
 superuser: true
