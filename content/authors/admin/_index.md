@@ -12,9 +12,9 @@ last_name: Polra
 # Pronouns (optional)
 pronouns: He/Him
 
-# Status emoji
-status:
+# status:
   icon: ☕️
+  text: Fueling research & shipping code
 
 # Is this the primary user of the site?
 superuser: true
@@ -170,6 +170,3 @@ I build real-time safety systems—YOLO-based detection, multi-camera tracking, 
 Previously, I was an **SRE at Asite**, where I automated Azure/AWS infrastructure with **Terraform**, built CI/CD with **Jenkins + Ansible**, and deployed monitoring with **Prometheus/Grafana**.  
 I enjoy turning research ideas into production-ready, observable systems that run reliably at the edge or in the cloud.
 
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
